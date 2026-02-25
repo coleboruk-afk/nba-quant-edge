@@ -21,17 +21,6 @@ def home():
 
 @app.get("/picks")
 def get_picks():
-    model_data = {}
-
-    file_path = "reports/today_latest.json"
-
-    if os.path.exists(file_path):
-        with open(file_path, "r") as f:
-            model_data = json.load(f)
-
-    odds_data = get_nba_odds()
-
-    return {
-        "model": model_data,
-        "odds": odds_data
-    }
+  @app.get("/picks")
+def get_picks():
+    return get_nba_odds()
