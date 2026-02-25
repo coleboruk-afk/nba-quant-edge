@@ -15,12 +15,8 @@ app.add_middleware(
 
 @app.get("/")
 def home():
-    return {
-
-"status": "NBA Quant Edge API is live"}
-
+    return {"status": "NBA Quant Edge API is live"}
 @app.get("/picks")
 def get_picks():
-  @app.get("/picks")
-def get_picks():
     return get_nba_odds()
+
