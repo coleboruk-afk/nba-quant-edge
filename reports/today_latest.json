@@ -1,0 +1,524 @@
+{
+  "app_name": "NBA_Quant_Edge_Daily",
+  "date": "2026-02-25",
+  "manual_override_used": false,
+  "status": "degraded",
+  "message": "Live data partially unavailable. Degraded-mode analysis generated.",
+  "confirmed_games_today": [
+    "OKC at DET",
+    "SAS at TOR",
+    "GSW at MEM",
+    "SAC at HOU",
+    "CLE at MIL",
+    "BOS at DEN"
+  ],
+  "ranked_picks": [],
+  "status_message": "No positive expected value opportunities today.",
+  "alt_line_high_upside": [],
+  "correlated_parlay": null,
+  "game_analytics": [
+    {
+      "matchup": "OKC at DET",
+      "status": "insufficient_active_players",
+      "team_metrics": {
+        "home": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        },
+        "away": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        }
+      },
+      "matchup_factors": {
+        "pace_differential": 0.0,
+        "back_to_back_status": "unverified",
+        "rest_advantage": "unverified",
+        "travel_distance": "unverified",
+        "time_zone_disadvantage": "unverified",
+        "strength_of_schedule_last15": "unverified",
+        "last10_net_rating_trend": 0.0,
+        "last3_momentum_shift": "unverified",
+        "fatigue_index": 0.0,
+        "coaching_adjustments": "unverified",
+        "zone_frequency": "unverified",
+        "defensive_switch_efficiency": "unverified",
+        "referee_foul_bias": "unverified"
+      }
+    },
+    {
+      "matchup": "SAS at TOR",
+      "status": "insufficient_active_players",
+      "team_metrics": {
+        "home": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        },
+        "away": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        }
+      },
+      "matchup_factors": {
+        "pace_differential": 0.0,
+        "back_to_back_status": "unverified",
+        "rest_advantage": "unverified",
+        "travel_distance": "unverified",
+        "time_zone_disadvantage": "unverified",
+        "strength_of_schedule_last15": "unverified",
+        "last10_net_rating_trend": 0.0,
+        "last3_momentum_shift": "unverified",
+        "fatigue_index": 0.0,
+        "coaching_adjustments": "unverified",
+        "zone_frequency": "unverified",
+        "defensive_switch_efficiency": "unverified",
+        "referee_foul_bias": "unverified"
+      }
+    },
+    {
+      "matchup": "GSW at MEM",
+      "status": "insufficient_active_players",
+      "team_metrics": {
+        "home": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        },
+        "away": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        }
+      },
+      "matchup_factors": {
+        "pace_differential": 0.0,
+        "back_to_back_status": "unverified",
+        "rest_advantage": "unverified",
+        "travel_distance": "unverified",
+        "time_zone_disadvantage": "unverified",
+        "strength_of_schedule_last15": "unverified",
+        "last10_net_rating_trend": 0.0,
+        "last3_momentum_shift": "unverified",
+        "fatigue_index": 0.0,
+        "coaching_adjustments": "unverified",
+        "zone_frequency": "unverified",
+        "defensive_switch_efficiency": "unverified",
+        "referee_foul_bias": "unverified"
+      }
+    },
+    {
+      "matchup": "SAC at HOU",
+      "status": "insufficient_active_players",
+      "team_metrics": {
+        "home": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        },
+        "away": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        }
+      },
+      "matchup_factors": {
+        "pace_differential": 0.0,
+        "back_to_back_status": "unverified",
+        "rest_advantage": "unverified",
+        "travel_distance": "unverified",
+        "time_zone_disadvantage": "unverified",
+        "strength_of_schedule_last15": "unverified",
+        "last10_net_rating_trend": 0.0,
+        "last3_momentum_shift": "unverified",
+        "fatigue_index": 0.0,
+        "coaching_adjustments": "unverified",
+        "zone_frequency": "unverified",
+        "defensive_switch_efficiency": "unverified",
+        "referee_foul_bias": "unverified"
+      }
+    },
+    {
+      "matchup": "CLE at MIL",
+      "status": "insufficient_active_players",
+      "team_metrics": {
+        "home": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        },
+        "away": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        }
+      },
+      "matchup_factors": {
+        "pace_differential": 0.0,
+        "back_to_back_status": "unverified",
+        "rest_advantage": "unverified",
+        "travel_distance": "unverified",
+        "time_zone_disadvantage": "unverified",
+        "strength_of_schedule_last15": "unverified",
+        "last10_net_rating_trend": 0.0,
+        "last3_momentum_shift": "unverified",
+        "fatigue_index": 0.0,
+        "coaching_adjustments": "unverified",
+        "zone_frequency": "unverified",
+        "defensive_switch_efficiency": "unverified",
+        "referee_foul_bias": "unverified"
+      }
+    },
+    {
+      "matchup": "BOS at DEN",
+      "status": "insufficient_active_players",
+      "team_metrics": {
+        "home": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        },
+        "away": {
+          "offensive_rating_season": null,
+          "offensive_rating_last10": null,
+          "defensive_rating_season": null,
+          "defensive_rating_last10": null,
+          "net_rating": null,
+          "efg_pct": null,
+          "ts_pct": null,
+          "pace": null,
+          "turnover_pct": null,
+          "off_rebound_pct": null,
+          "def_rebound_pct": null,
+          "free_throw_rate": null,
+          "points_per_possession": null,
+          "assist_pct": null,
+          "threepa_rate": 0.0,
+          "paint_points_allowed": null,
+          "rim_protection_pct": "unverified",
+          "pick_and_roll_def_efficiency": "unverified",
+          "starting_lineup_net_rating": "unverified",
+          "bench_net_rating": "unverified",
+          "home_away_splits": {
+            "home_net_rating": null,
+            "away_net_rating": null
+          },
+          "clutch_net_rating": "unverified"
+        }
+      },
+      "matchup_factors": {
+        "pace_differential": 0.0,
+        "back_to_back_status": "unverified",
+        "rest_advantage": "unverified",
+        "travel_distance": "unverified",
+        "time_zone_disadvantage": "unverified",
+        "strength_of_schedule_last15": "unverified",
+        "last10_net_rating_trend": 0.0,
+        "last3_momentum_shift": "unverified",
+        "fatigue_index": 0.0,
+        "coaching_adjustments": "unverified",
+        "zone_frequency": "unverified",
+        "defensive_switch_efficiency": "unverified",
+        "referee_foul_bias": "unverified"
+      }
+    }
+  ],
+  "degraded_mode": true,
+  "upstream_failures": [
+    "team_stats failed after retries: team_stats.Advanced.0.all failed after 4 attempts: ('Connection aborted.', TimeoutError(60, 'Operation timed out'))",
+    "Injury feed empty.",
+    "Betting market feed empty.",
+    "Missing odds for OKC@DET.",
+    "Missing odds for SAS@TOR.",
+    "Missing odds for GSW@MEM.",
+    "Missing odds for SAC@HOU.",
+    "Missing odds for CLE@MIL.",
+    "Missing odds for BOS@DEN."
+  ],
+  "upstream_api_status": {
+    "schedule.data_nba_net": {
+      "ok": false,
+      "attempts": 4,
+      "url": "https://data.nba.net/prod/v2/2025/schedule.json",
+      "error": "HTTPSConnectionPool(host='data.nba.net', port=443): Max retries exceeded with url: /prod/v2/2025/schedule.json (Caused by SSLError(CertificateError(\"hostname 'data.nba.net' doesn't match either of 'www.turner.com', 'alwayshereforyou.com', 'celebrityshowoff.com', 'tournamentoflaughs.com', 'warnerbrosdiscoveryready.com', 'wbdready.com', 'trutv.com', '*.adultswim.com', '*.ben10.com', '*.bleacherreport.com', '*.cartoonnetwork.asia', '*.cartoonnetwork.com', '*.cartoonnetworkasia.com', '*.cartoonnetworkkorea.com', '*.cartoonnetworkpr.com', '*.cdn.adultswim.com', '*.cdn.cnn.com', '*.cdn.tbs.com', '*.cdn.tcm.com', '*.cdn.tntdrama.com', '*.cdn.trutv.com', '*.cdn.turner.com', '*.celebrityshowoff.com', '*.cerebro.api.cnn.com', '*.chasingthecurelive.com', '*.cnn.com', '*.cnn.io', '*.dynaimage.cdn.turner.com', '*.eleague.com', '*.filmstruck.com', '*.go.cnn.com', '*.i.cdn.ti-platform.com', '*.latamwbd.com', '*.mml-desktop.ncaa.com', '*.mml-web.ncaa.com', '*.mml.ncaa.com', '*.money.cnn.com', '*.ncaa.com', '*.ngtv.io', '*.nycf.tbs.com', '*.policiesontheset.com', '*.powerpufftheworld.com', '*.sds.media', '*.staging.cartoonnetwork.com', '*.stevenuniverseselfesteem.com', '*.superstation.com', '*.tbs.com', '*.tcm.com', '*.ti-platform.com', '*.tnt.tv', '*.tntdrama.com', '*.tournamentoflaughs.com', '*.trutv.com', '*.turner.com', '*.turner.ncaa.com', '*.warnerbrosdiscoveryready.com', '*.warnermediacdn.com', '*.wbd.com', '*.wbdready.com', 'turner.com'\")))"
+    },
+    "schedule.cdn_static": {
+      "ok": true,
+      "attempts": 1,
+      "url": "https://cdn.nba.com/static/json/staticData/scheduleLeagueV2.json"
+    },
+    "injuries.espn": {
+      "ok": true,
+      "attempts": 1,
+      "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries"
+    },
+    "lineups.rotowire": {
+      "ok": true,
+      "attempts": 1,
+      "url": "https://www.rotowire.com/basketball/nba-lineups.php"
+    },
+    "team_stats.Advanced.0.all": {
+      "ok": false,
+      "attempts": 4,
+      "url": "https://stats.nba.com/stats/leaguedashteamstats",
+      "error": "('Connection aborted.', TimeoutError(60, 'Operation timed out'))"
+    },
+    "recent_games.data_nba_net": {
+      "ok": false,
+      "attempts": 4,
+      "url": "https://data.nba.net/prod/v2/2025/schedule.json",
+      "error": "HTTPSConnectionPool(host='data.nba.net', port=443): Max retries exceeded with url: /prod/v2/2025/schedule.json (Caused by SSLError(CertificateError(\"hostname 'data.nba.net' doesn't match either of 'www.turner.com', 'alwayshereforyou.com', 'celebrityshowoff.com', 'tournamentoflaughs.com', 'warnerbrosdiscoveryready.com', 'wbdready.com', 'trutv.com', '*.adultswim.com', '*.ben10.com', '*.bleacherreport.com', '*.cartoonnetwork.asia', '*.cartoonnetwork.com', '*.cartoonnetworkasia.com', '*.cartoonnetworkkorea.com', '*.cartoonnetworkpr.com', '*.cdn.adultswim.com', '*.cdn.cnn.com', '*.cdn.tbs.com', '*.cdn.tcm.com', '*.cdn.tntdrama.com', '*.cdn.trutv.com', '*.cdn.turner.com', '*.celebrityshowoff.com', '*.cerebro.api.cnn.com', '*.chasingthecurelive.com', '*.cnn.com', '*.cnn.io', '*.dynaimage.cdn.turner.com', '*.eleague.com', '*.filmstruck.com', '*.go.cnn.com', '*.i.cdn.ti-platform.com', '*.latamwbd.com', '*.mml-desktop.ncaa.com', '*.mml-web.ncaa.com', '*.mml.ncaa.com', '*.money.cnn.com', '*.ncaa.com', '*.ngtv.io', '*.nycf.tbs.com', '*.policiesontheset.com', '*.powerpufftheworld.com', '*.sds.media', '*.staging.cartoonnetwork.com', '*.stevenuniverseselfesteem.com', '*.superstation.com', '*.tbs.com', '*.tcm.com', '*.ti-platform.com', '*.tnt.tv', '*.tntdrama.com', '*.tournamentoflaughs.com', '*.trutv.com', '*.turner.com', '*.turner.ncaa.com', '*.warnerbrosdiscoveryready.com', '*.warnermediacdn.com', '*.wbd.com', '*.wbdready.com', 'turner.com'\")))"
+    }
+  },
+  "data_integrity": {
+    "daily_reset_protocol": "completed",
+    "fresh_pull_only": true,
+    "uncertainty_flagging": true,
+    "inactive_players_excluded": true
+  }
+}
